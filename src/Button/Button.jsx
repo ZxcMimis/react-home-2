@@ -1,0 +1,1 @@
+export const  Button = (props) => <button onClick={props.onClick}>Тук Тук</button>

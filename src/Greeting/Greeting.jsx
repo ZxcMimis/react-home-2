@@ -1,0 +1,1 @@
+export const Greeting = (props) => <h1>Привіт, {props.name}</h1>
